@@ -1,0 +1,10 @@
+[2024-01-15 10:30:00] [INFO] Application started
+[2024-01-15 10:30:01] [DEBUG] Loading configuration
+[2024-01-15 10:30:02] [INFO] Database connection established
+[2024-01-15 10:30:03] [WARNING] High memory usage detected
+[2024-01-15 10:30:04] [ERROR] Failed to connect to external service
+[2024-01-15 10:30:05] [INFO] Retrying connection...
+[2024-01-15 10:30:06] [ERROR] Connection timeout
+[2024-01-15 10:30:07] [INFO] Application shutdown initiated
+[2024-01-15 10:30:08] [DEBUG] Cleaning up resources
+[2024-01-15 10:30:09] [INFO] Application stopped 
